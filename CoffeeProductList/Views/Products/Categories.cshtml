@@ -1,0 +1,16 @@
+﻿@model List<Product>
+
+    <ul>
+        @{
+            foreach(Product p in Model)
+            {
+            <h1>@p.Name</h1>
+            <p>Description: @p.Description</p>
+            <p>Price: $@p.Price</p>
+        
+             }
+
+        }
+
+
+    </ul>

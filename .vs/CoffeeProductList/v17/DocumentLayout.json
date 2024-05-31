@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|c:\\users\\cstock\\source\\repos\\coffeeproductlist\\coffeeproductlist\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|solutionrelative:coffeeproductlist\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|c:\\users\\cstock\\source\\repos\\coffeeproductlist\\coffeeproductlist\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|solutionrelative:coffeeproductlist\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|c:\\users\\cstock\\source\\repos\\coffeeproductlist\\coffeeproductlist\\views\\products\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|solutionrelative:coffeeproductlist\\views\\products\\categories.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|c:\\users\\cstock\\source\\repos\\coffeeproductlist\\coffeeproductlist\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|solutionrelative:coffeeproductlist\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|c:\\users\\cstock\\source\\repos\\coffeeproductlist\\coffeeproductlist\\models\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|solutionrelative:coffeeproductlist\\models\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|c:\\users\\cstock\\source\\repos\\coffeeproductlist\\coffeeproductlist\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|solutionrelative:coffeeproductlist\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|c:\\users\\cstock\\source\\repos\\coffeeproductlist\\coffeeproductlist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|solutionrelative:coffeeproductlist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|c:\\users\\cstock\\source\\repos\\coffeeproductlist\\coffeeproductlist\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|solutionrelative:coffeeproductlist\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1DA08438-5943-4F45-8B56-FBA095C9E932}|CoffeeProductList\\CoffeeProductList.csproj|c:\\users\\cstock\\source\\repos\\coffeeproductlist\\coffeeproductlist\\coffeeproductlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,81 +30,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categories.cshtml",
+              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\Views\\Products\\Categories.cshtml",
+              "RelativeDocumentMoniker": "CoffeeProductList\\Views\\Products\\Categories.cshtml",
+              "ToolTip": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\Views\\Products\\Categories.cshtml",
+              "RelativeToolTip": "CoffeeProductList\\Views\\Products\\Categories.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T17:59:57.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "CoffeeProductList\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "CoffeeProductList\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB8AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T19:24:42.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CoffeeProductList\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CoffeeProductList\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBsAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T19:05:28.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\Views\\Products\\Details.cshtml",
               "RelativeDocumentMoniker": "CoffeeProductList\\Views\\Products\\Details.cshtml",
               "ToolTip": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\Views\\Products\\Details.cshtml",
               "RelativeToolTip": "CoffeeProductList\\Views\\Products\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-30T18:58:42.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "CoffeeProductList\\Views\\Products\\Index.cshtml",
               "ToolTip": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "CoffeeProductList\\Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAqAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-30T18:57:50.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\Models\\ProductsDbContext.cs",
-              "RelativeDocumentMoniker": "CoffeeProductList\\Models\\ProductsDbContext.cs",
-              "ToolTip": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\Models\\ProductsDbContext.cs",
-              "RelativeToolTip": "CoffeeProductList\\Models\\ProductsDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T18:55:00.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CoffeeProductList",
+              "DocumentIndex": 4,
+              "Title": "CoffeeProductList.csproj",
               "DocumentMoniker": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\CoffeeProductList.csproj",
               "RelativeDocumentMoniker": "CoffeeProductList\\CoffeeProductList.csproj",
               "ToolTip": "C:\\Users\\cstock\\source\\repos\\CoffeeProductList\\CoffeeProductList\\CoffeeProductList.csproj",

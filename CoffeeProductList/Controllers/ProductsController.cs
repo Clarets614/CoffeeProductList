@@ -13,6 +13,20 @@ namespace CoffeeProductList.Controllers
             return View(result);
         }
 
+        [HttpGet]
+        public IActionResult Categories()
+        {
+            List<Product> result = dbContext.Products.ToList();
+            return View(result);
+        }
+
+        [HttpPost]
+        public IActionResult Categories(string category)
+        {
+            List<Product> result = dbContext.Products.Where(p => p.Category == category).ToList();
+            return View(result);
+        }
+
         public IActionResult Details(int id)
         {
             Product result = dbContext.Products.FirstOrDefault(p => p.Id == id);

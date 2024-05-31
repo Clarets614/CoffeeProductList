@@ -1,6 +1,17 @@
 ﻿@model Product
 
-<h1>@Model.Name</h1>
-<p>Description: @Model.Description</p>
-<p>Price: @Model.Price</p>
-<p>Category: @Model.Category</p>
+
+@{
+    if(Model != null)
+    {
+        <h1>@Model.Name</h1>
+        <p>Description: @Model.Description</p>
+        <p>Price: $@Model.Price</p>
+        <p>Category: @Model.Category</p>
+
+    }
+    else
+    {
+        <h1>Item no longer available</h1>
+    }
+}

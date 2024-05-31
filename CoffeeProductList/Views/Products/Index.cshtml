@@ -5,7 +5,7 @@
     foreach(Product p in Model)
     {
         <li>
-        <a asp-controller="Products", asp-action="Details" asp-route-id="@p.Id">@p.Name</a>
+            <a asp-controller="Products" , asp-action="Details" asp-route-id="@p.Id">@p.Name $@p.Price</a>
         </li>
     }
 }
@@ -13,7 +13,7 @@
 <br />
 
 <p>Select Products by Category</p>
-    <form asp-action="Details" method="post">
+    <form asp-controller="Products" asp-action="Categories" asp-route-Category="Categories" method="post">
         <select id ="Category" name="Category">
         @{
             List<string> uniqueCategories = Model.Select(p => p.Category).Distinct().ToList();
