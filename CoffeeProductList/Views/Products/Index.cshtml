@@ -1,0 +1,31 @@
+﻿@model List<Product>
+
+    <h1>Products Available</h1>
+@{
+    foreach(Product p in Model)
+    {
+        <li>
+        <a asp-controller="Products", asp-action="Details" asp-route-id="@p.Id">@p.Name</a>
+        </li>
+    }
+}
+
+<br />
+
+<p>Select Products by Category</p>
+    <form asp-action="Details" method="post">
+        <select id ="Category" name="Category">
+        @{
+            List<string> uniqueCategories = Model.Select(p => p.Category).Distinct().ToList();
+            foreach (string category in uniqueCategories)
+            {
+                <option>@category</option>
+            }
+        }
+
+
+
+        </select>
+
+        <input type="submit" />
+    </form>
